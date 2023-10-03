@@ -1,1 +1,1 @@
-# Lifecycle state broadcast API
+# A simple Flask API boilerplate
