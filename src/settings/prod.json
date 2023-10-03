@@ -1,0 +1,5 @@
+{
+  "id": "lifecycle-state-broadcast-api",
+  "name": "Lifecycle state broadcast API",
+  "description": "This API allows you to request registration / de-registration actions for your software artifacts."
+}
